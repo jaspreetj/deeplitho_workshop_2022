@@ -1,3 +1,16 @@
+import os, cv2
+import phidl.geometry as pg
+from copy import deepcopy
+from shapely.geometry.polygon import Polygon
+from descartes import PolygonPatch
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.patches as matpoly
+from matplotlib.collections import PatchCollection
+import matplotlib.image as mpimg
+from matplotlib import cm
+
+
 def gds_to_jpg(filename, file_dir, poly_layers = [0, 1]):
     file_dir = os.getcwd() + file_dir
 
