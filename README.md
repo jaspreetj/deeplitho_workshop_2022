@@ -12,7 +12,9 @@ Pytorch implementation of deeplitho to convert GDS masks to post-lithography SEM
 
 # Usage
 
-It is recommended to use the colab environment to run deeplitho. 
+It is recommended to use the colab environment to run deeplitho.
+
+
  [`deeplitho.ipynb`][colab-notebook-deeplitho].
 [![Open In Colab][colab-badge]][colab-notebook-deeplitho]
 
@@ -59,8 +61,8 @@ cd deeplitho_workshop_2022
 ```bash
 repo_name_code = "deeplitho_workshop_2022"
 repo_name_model = "checkpoints"
-!unzip "checkpoints.zip"
-!mv -v $repo_name_model $repo_name_code/
+unzip "checkpoints.zip"
+mv -v $repo_name_model $repo_name_code/
 ```
 
 [colab-notebook-deeplitho]: <https://colab.research.google.com/drive/1-tWFvRGPAXDn0t9RgdHPUFw_qlFB642Y?usp=sharing>
