@@ -8,7 +8,7 @@
 
 
 
-Pytorch implementation of deeplitho to convert GDS masks to post-lithography SEMs, mimicking the effects of a DUV process.<br><br>
+Pytorch implementation of deeplitho to convert GDS masks to post-lithography SEMs, emulating the effects of a DUV process.<br><br>
 
 # Usage
 
