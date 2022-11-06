@@ -58,7 +58,7 @@ cd deeplitho_workshop_2022
   
 
 ### Testing
-- Please download the pre-trained model from [here](https://drive.google.com/file/d/1isY7tU9VsAEA9k-stBpSIBipN8_t-0wK/view?usp=share_link) (google drive link), and run the following command
+- Please download the pre-trained model from [here](https://drive.google.com/file/d/1PKWDMLmwaVBnzuEbBs-DFV6ndUW8wh6C/view?usp=share_link) (google drive link), and run the following command
 ```bash
 repo_name_code = "deeplitho_workshop_2022"
 repo_name_model = "checkpoints"
