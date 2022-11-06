@@ -62,7 +62,7 @@ cd deeplitho_workshop_2022
 ```bash
 repo_name_code = "deeplitho_workshop_2022"
 repo_name_model = "checkpoints"
-unzip "checkpoints.zip"
+unzip "checkpoints_gds_to_sem_bin.zip"
 mv -v $repo_name_model $repo_name_code/
 ```
 
