@@ -1,14 +1,11 @@
 
-<img  src='imgs/demo_litho.gif' align="right"  width=360>
-<br><br><br><br>
+# DeepLitho v0.1
+Pytorch implementation of deeplitho to convert GDS masks to post-lithography SEMs, emulating the effects of a DUV process.<br><br>
+
+<img src='imgs/demo_litho.gif' align="right"  width=400>
+</img>
 
   
-
-# DeepLitho v0.1
-
-
-
-Pytorch implementation of deeplitho to convert GDS masks to post-lithography SEMs, emulating the effects of a DUV process.<br><br>
 
 # Usage
 
