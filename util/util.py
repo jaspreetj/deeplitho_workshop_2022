@@ -9,6 +9,7 @@ import rasterio.features
 import matplotlib.pyplot as plt
 import os, cv2
 from shapely.geometry.polygon import Polygon
+import gdspy
 
 # Converts a Tensor into a Numpy array
 # |imtype|: the desired type of the converted numpy array
